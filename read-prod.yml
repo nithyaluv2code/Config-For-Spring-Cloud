@@ -1,0 +1,10 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+myreads:
+  url: "https://nithyaluv2code.github.io/reads/myreads.html?year=2025"
+  description: "The list of books I have ever read. (This is Prod Version)"
+  sorting: "The books are sorted based on their most recent read date."
+  whatdoimean: "If I have read a book in 2003, 2006 and 2016, you will see them only under 2024"
+  whomtocontact: "{cipher}82079647b64b5675d5c61979128488023eaf16c9a30d2ac2007831d246ec4c3d72ed43b8514294051c9377ceabe33186fe80a071cdfb3eddfbdc2971255c348a"
